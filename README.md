@@ -17,4 +17,4 @@ Link: https://angular.io/tutorial
 - [x] https://angular.io/tutorial/toh-pt3
 - [x] https://angular.io/tutorial/toh-pt4
 - [x] https://angular.io/tutorial/toh-pt5
-- [ ] https://angular.io/tutorial/toh-pt6
+- [x] https://angular.io/tutorial/toh-pt6
